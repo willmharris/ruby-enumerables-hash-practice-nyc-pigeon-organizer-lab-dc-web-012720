@@ -16,3 +16,5 @@ end
       :gender => appropriate array,
       :lives => appropriate array 
     }
+    i += 1 
+  end 
