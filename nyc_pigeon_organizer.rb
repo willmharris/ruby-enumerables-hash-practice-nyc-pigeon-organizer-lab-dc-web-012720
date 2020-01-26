@@ -7,8 +7,12 @@ end
 # Fill in each empty hash appropriately 
 
 #  array of unique bird names 
-  finalhash[i] = {
-    :color => appropriate array,
-    :gender => appropriate array,
-    :lives => appropriate array 
-  }
+  unique_bird_name_array = ["bird 1", "bird2"]
+  i = 0 
+  while i < unique_bird_name_array.length 
+    current_bird = unique_bird_name_array[i]
+    finalhash[current_bird] = {
+      :color => appropriate array,
+      :gender => appropriate array,
+      :lives => appropriate array 
+    }
