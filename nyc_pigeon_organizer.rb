@@ -7,4 +7,8 @@ end
 # Fill in each empty hash appropriately 
 
 #  array of unique bird names 
-#  finalhash[i] = {
+  finalhash[i] = {
+    :color => appropriate array,
+    :gender => appropriate array,
+    :lives => appropriate array 
+  }
