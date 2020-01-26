@@ -7,4 +7,4 @@ end
 # Fill in each empty hash appropriately 
 
 #  array of unique bird names 
- finalhash[i] 
+#  finalhash[i] = {
