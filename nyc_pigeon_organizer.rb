@@ -9,6 +9,7 @@ end
 #  array of unique bird names 
   unique_bird_name_array = ["bird 1", "bird2"]
   i = 0 
+  finalhash = [] 
   while i < unique_bird_name_array.length 
     current_bird_name = unique_bird_name_array[i]
     correct_colors_array = # code 
