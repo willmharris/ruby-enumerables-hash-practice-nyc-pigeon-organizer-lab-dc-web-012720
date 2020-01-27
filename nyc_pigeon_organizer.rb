@@ -11,7 +11,7 @@ def nyc_pigeon_organizer(data)
 	
 	end 
 	i = 0 
-	finalhash = [] 
+	finalhash = {} 
 	while i < bird_name_array.length 
 	    current_bird_name = bird_name_array[i]
 	    colors  = data[:color] 
